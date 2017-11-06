@@ -1,7 +1,7 @@
 {
-  "name": "neauoire",
-  "desc": "It's always night under the ultraviolet sun.",
-  "site": "http://xxiivv.com",
+  "name": "ivanoats",
+  "desc": "SUP racer/teacher and Web Developer",
+  "site": "dat://rotonde-ivanoats.hashbase.io",
   "port": [
     "dat://0cd187bbe6a44b0462d4bc32519ee6c9a55ce25eafb3b11e33621c307e275c96/",
     "dat://7fa4dea2b16585f994f576cc1356dc6443b8449b00fbadf70cb19827d2238fd3/",
@@ -51,13 +51,14 @@
     "dat://152c5dce6ea6d626f1828c1252c5cf9594a90069927d5819bc8a161729cad3f8",
     "dat://06e667f2e3715afe24d059a06912df6aeda21e9de70603390e26fa48e029c95f/",
     "dat://fc0e02bce2675ea7802ac9bf6114904a10f5b31ac72e3bc4e27545ecab2ccdde/",
-    "dat://a4de6296ed13ad5c666e3cda4a43fbdfdcb8c3a1396bb7727979ce4448822c70"
+    "dat://a4de6296ed13ad5c666e3cda4a43fbdfdcb8c3a1396bb7727979ce4448822c70",
+    "dat://46c3cdf0838ba78c2df2cae24401c8035bb10e996ca908ad83b2525c3b97ea80/"
   ],
   "feed": [
     {
-      "message": "Oh my goodness, I located a pretty {*evil*} bug.",
+      "message": "Hello P2P web!",
       "timestamp": 1508136223906,
-      "editstamp": 1508136856680
+      "editstamp": 1509592611427
     },
     {
       "message": "@alphaflood @aeon fixed that issue :)",
@@ -133,7 +134,16 @@
     {
       "message": "tha_rami: Thank you for the PR! Now I need to fix an issue with Japanese/Hangul input.",
       "timestamp": 1508200863502
+    },
+    {
+      "message": "Ok, I've cloned both github repos but still not sure how to use this thing",
+      "timestamp": 1509593294771
+    },
+    {
+      "message": "I just peered myself.",
+      "timestamp": 1509593698270
     }
   ],
-  "dat": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/"
+  "dat": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/",
+  "client_version": "0.1.51"
 }
