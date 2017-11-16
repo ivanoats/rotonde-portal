@@ -1,7 +1,7 @@
 {
   "name": "ivanoats",
   "desc": "SUP racer/teacher and Web Developer",
-  "site": "dat://rotonde-ivanoats.hashbase.io",
+  "site": "dat://d6800d839d064acce88dc6c5d15b6afd9429a3e72bb6edb898a58d697709d872",
   "port": [
     "dat://0cd187bbe6a44b0462d4bc32519ee6c9a55ce25eafb3b11e33621c307e275c96/",
     "dat://7fa4dea2b16585f994f576cc1356dc6443b8449b00fbadf70cb19827d2238fd3/",
@@ -158,8 +158,38 @@
         ],
         "editstamp": 1510031475295
       }
+    },
+    {
+      "message": "is this thing on?",
+      "timestamp": 1510201842212,
+      "media": "",
+      "target": []
+    },
+    {
+      "message": "not sure why everything I post gets posted twice. any ideas?",
+      "timestamp": 1510201939793,
+      "media": "",
+      "target": []
+    },
+    {
+      "message": "trying again",
+      "timestamp": 1510202070971,
+      "media": "",
+      "target": []
+    },
+    {
+      "message": "help",
+      "timestamp": 1510261394998,
+      "media": "",
+      "target": []
+    },
+    {
+      "message": "sorry, thought that was a command. hard to discover commands here",
+      "timestamp": 1510261693618,
+      "media": "",
+      "target": []
     }
   ],
   "dat": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/",
-  "client_version": "0.1.67"
+  "client_version": "0.1.8"
 }
